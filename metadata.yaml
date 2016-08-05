@@ -1,0 +1,27 @@
+_repo: The-Prophetic-Pictures--From--Twice-Told-Tales--_9204
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hawthorne, Nathaniel
+    birthdate: 1804
+    deathdate: 1864
+    gutenberg_agent_id: '28'
+    url: http://www.gutenberg.org/2009/agents/28
+    wikipedia: http://en.wikipedia.org/wiki/Nathaniel_Hawthorne
+description: ''
+gutenberg_issued: '2005-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9204'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Historical fiction, American'
+- !lcsh 'Short stories'
+- !lcsh 'New England -- Social life and customs -- Fiction'
+- GITenberg
+title: The Prophetic Pictures (From "Twice Told Tales")
+url: http://www.gutenberg.org/ebooks/9204
